@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://tenor.com/view/adam-smasher-cyberpunk-cyberpunk-2077-live-reaction-smasher-reaction-gif-9150394556507483165"/>
 </div>
 
 ###
