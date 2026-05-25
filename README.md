@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">wsg twin👋🙂‍↕️</h1>
+<h1 align="center">wsg twin🤝😌</h1>
 
 ###
 
