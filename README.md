@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/view/adam-smasher-cyberpunk-cyberpunk-2077-live-reaction-smasher-reaction-gif-9150394556507483165"/>
+  <img height="300" src="https://i.redd.it/6j3akxh0jj8g1.jpeg"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">wsg twin🤝😌</h1>
+<h1 align="center">wsg twin👋🙂‍↕️</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- Incoming 4th year Computer Science student<br>- Continuously expanding GitHub portfolio through personal and academic projects</p>
+<p align="left">- 4th year Computer Science student<br>- Continuously expanding GitHub portfolio through personal and academic projects</p>
 
 ###
 
