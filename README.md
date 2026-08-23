@@ -70,8 +70,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=malorian-arms3516&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malorian-arms3516"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malorian-arms3516"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malorian-arms3516"/>
 </div>
 
 
