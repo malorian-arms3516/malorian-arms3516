@@ -64,6 +64,7 @@
 ###
 
 <div align="center">
+  <img src="https://gists-readme.yizack.com/api?user=malorian-arms3516" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=malorian-arms3516"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malorian-arms3516"/>
 </div>
