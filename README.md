@@ -82,9 +82,10 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/qkitzero/github-contribution-growth-graph">
-  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=malorian-arms3516&theme=green" alt="GitHub Contribution Growth Graph" />
-</a>
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=malorian-arms3516&types=commit&theme=red&size=small" />
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=malorian-arms3516&types=pr&theme=blue&size=small" />
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=malorian-arms3516&types=issue&theme=green&size=small" />
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=malorian-arms3516&types=review&theme=orange&size=small" />
 </p>
 
 
