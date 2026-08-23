@@ -8,8 +8,6 @@
   <a href="https://steamcommunity.com/id/liaxis/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <a href="https://pastebin.com/UJA6mTTR"/>
     <img src="https://img.shields.io/badge/pc%20specs-000000?style=for-the-badge&logo=asus&logoColor=white"/>
   </a>
@@ -19,6 +17,8 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=malorian-arms3516.malorian-arms3516&"  />
+  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
 
 ###
