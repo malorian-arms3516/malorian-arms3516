@@ -64,10 +64,7 @@
 ###
 
 <div align="center">
-  <img src="https://gists-readme.yizack.com/api?user=malorian-arms3516" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malorian-arms3516"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malorian-arms3516"/>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=malorian-arms3516&repo=github-readme-stats)](https://github.com/malorian-arms3516/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=malorian-arms3516&repo=github-readme-stats"/>
 </div>
 
 
