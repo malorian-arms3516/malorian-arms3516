@@ -5,9 +5,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://steamcommunity.com/id/liaxis/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <a href="https://pastebin.com/UJA6mTTR"/>
+    <img src="https://img.shields.io/badge/pc%20specs-000000?style=for-the-badge&logo=asus&logoColor=white"/>
+  </a>
 </div>
 
 ###
@@ -66,6 +71,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=malorian-arms3516&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malorian-arms3516"/>
 </div>
+
 
 ###
