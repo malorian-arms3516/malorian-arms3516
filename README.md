@@ -23,6 +23,9 @@
   <a href="https://www.nfsaddons.com/forums/index.php?action=profile;u=23433">
     <img alt="NFSAddons" src="https://img.shields.io/badge/NFSAddons-Profile-2E8B57?style=for-the-badge" />
   </a>
+  <a href="https://www.stackinfolio.dev/malorian-arms3516">
+    <img alt="Stackinfolio" src="https://img.shields.io/badge/Stackinfolio-Profile-pink?style=for-the-badge" />
+  </a>
 </div>
 
 
